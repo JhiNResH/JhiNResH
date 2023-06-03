@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on [Share2Earn](https://github.com/JhiNResH/Share2Earn);
 - 🌱 I’m currently learning React, Rust, Solidity; 
 - 👯 I’m looking to collaborate any kinds of blockchain project;
-- 🤔 I’m looking for INTERNSHIPS 😭;
+- 🤔 I’m looking for INTERNSHIPS.;
 - 💬 AMA, I am willing to help and challenge;
 - ⚡️ Fun-Fact: I have a degree in mechanical engineering;
 - 📫 How to reach me: dontforgetbananatiff@gmail.com;
@@ -40,21 +40,18 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <br />
 </p>
 
 <!-- Your hits or visitors
