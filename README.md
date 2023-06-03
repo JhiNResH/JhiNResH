@@ -88,8 +88,8 @@ I created these images, feel free to use them.
   <a href="https://github.com/JhiNResH/Share2Earn">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JhiNresH&repo=Share2Earn" />
   </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  <a href="https://github.com/JhiNResH/zkode_ETHTaipei">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JhiNResHr&repo=zkode_ETHTaipei" />
   </a>
 </p>
 
