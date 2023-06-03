@@ -64,14 +64,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/JhiNResH/JhiNResH.svg" />
 </p>
 
-## Support me
+<!-- ## Support me -->
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
 
 ---
 
