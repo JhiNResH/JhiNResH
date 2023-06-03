@@ -21,10 +21,10 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [Share2Earn](https://github.com/JhiNResH/Share2Earn);
 - 🌱 I’m currently learning React, Rust, Solidity; 
-- 👯 I’m looking to collaborate any kinds of blockchain project;
+- 👯 I’m looking to collaborate any kinds of blockchain projects.;
 - 🤔 I’m looking for INTERNSHIPS.;
-- 💬 AMA, I am willing to help and challenge;
-- ⚡️ Fun-Fact: I have a degree in mechanical engineering;
+- 💬 AMA, I am willing to help and challenge.;
+- ⚡️ Fun-Fact: I have a degree in mechanical engineering.;
 - 📫 How to reach me: dontforgetbananatiff@gmail.com;
 
 **Languages and Tools:** 
