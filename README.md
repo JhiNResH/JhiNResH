@@ -72,7 +72,7 @@ I created these images, feel free to use them.
 ---
 
 <!-- Its main projects -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/JhiNResH/Share2Earn">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JhiNresH&repo=Share2Earn" />
   </a>
