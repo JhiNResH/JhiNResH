@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Jerry Chen, a Developer from Taiwan 🇹🇼.
+## Hi, I'm Jerry Chen, a Developer from Taiwan 🇹🇼
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="48%" align="right" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently working on [Share2Earn](https://github.com/JhiNResH/Share2Earn);
 - 🌱 I’m currently learning React, Rust, Solidity; 
