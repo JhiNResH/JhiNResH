@@ -86,7 +86,7 @@ I created these images, feel free to use them.
 <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/JhiNResH/Share2Earn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=Share2Earn" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JhiNresH&repo=Share2Earn" />
   </a>
   <a href="https://github.com/onimur/circleci-github-changelog-generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
