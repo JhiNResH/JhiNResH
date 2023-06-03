@@ -19,13 +19,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 👨🏽‍💻 I’m currently working on [Share2Earn](https://github.com/JhiNResH/Share2Earn);
+- 🌱 I’m currently learning React, Rust, Solidity; 
+- 👯 I’m looking to collaborate any kinds of blockchain project;
+- 🤔 I’m looking for INTERNSHIPS 😭;
+- 💬 AMA, I am willing to help and challenge;
+- ⚡️ Fun-Fact: I have a degree in mechanical engineering;
+- 📫 How to reach me: dontforgetbananatiff@gmail.com;
 
 **Languages and Tools:** 
 
