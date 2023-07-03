@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
-- 👨🏽‍💻 I’m currently working on [SmartReviewHub](https://github.com/JhiNResH/SmartReviewHub);
+- 👨🏽‍💻 I’m currently working on [Shiangcheng](https://github.com/JhiNResH/Shiangcheng);
 - 🌱 I’m currently learning React, Rust, Solidity; 
 - 👯 I’m looking to collaborate any kinds of blockchain projects.;
 - 🤔 I’m looking for INTERNSHIPS.;
