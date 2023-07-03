@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for INTERNSHIPS.;
 - 💬 AMA, I am willing to help and challenge.;
 - ⚡️ Fun-Fact: I have a degree in mechanical engineering.;
-- 📫 How to reach me: dontforgetbananatiff@gmail.com;
+- 📫 How to reach me: cxc3787@mavs.uta.edu;
 
 **Languages and Tools:** 
 
