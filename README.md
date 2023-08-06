@@ -19,10 +19,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
-- 👨🏽‍💻 I’m currently working on [Shiangcheng](https://github.com/JhiNResH/Shiangcheng);
+- 👨🏽‍💻 I’m currently working on [Deshop](https://github.com/JhiNResH/Deshop);
 - 🌱 I’m currently learning React, Rust, Solidity; 
 - 👯 I’m looking to collaborate any kinds of blockchain projects.;
-- 🤔 I’m looking for INTERNSHIPS.;
+- 🤔 I’m looking for web3 INTERNSHIPS.;
 - 💬 AMA, I am willing to help and challenge.;
 - ⚡️ Fun-Fact: I have a degree in mechanical engineering.;
 - 📫 How to reach me: cxc3787@mavs.uta.edu;
