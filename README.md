@@ -58,9 +58,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JhiNResH&theme=blue-green)
 
-<p align="right">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</p>
 
 
 
