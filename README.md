@@ -57,7 +57,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JhiNResH&theme=blue-green)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Profile View Counter](https://komarev.com/ghpvc/?username=JhiNResH)
+
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
@@ -68,6 +68,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/JhiNResH/JhiNResH.svg" />
 </p>
+![Profile View Counter](https://komarev.com/ghpvc/?username=JhiNResH)
 
 <!-- ## Support me -->
 <!-- Your support, if you have it 
