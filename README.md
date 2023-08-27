@@ -18,6 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - 👨🏽‍💻 I’m currently working on [Deshop](https://github.com/JhiNResH/Deshop);
 - 🌱 I’m currently learning React, Rust, Solidity; 
@@ -56,7 +57,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JhiNResH&theme=blue-green)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 <!-- Your hits or visitors
