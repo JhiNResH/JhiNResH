@@ -57,6 +57,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JhiNResH&theme=blue-green)
 
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
