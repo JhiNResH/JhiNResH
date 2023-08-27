@@ -68,7 +68,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/JhiNResH/JhiNResH.svg" />
 </p>
-![Profile View Counter](https://komarev.com/ghpvc/?username=JhiNResH)
 
 <!-- ## Support me -->
 <!-- Your support, if you have it 
