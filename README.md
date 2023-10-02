@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="50%" align="right" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
 
-- 👨🏽‍💻 I’m currently working on [eatngo](https://github.com/JhiNResH/Deshop);
+- 👨🏽‍💻 I’m currently working on [eatngo](https://github.com/JhiNResH/eatngo1);
 - 🌱 I’m currently learning React, Rust, Solidity; 
 - 👯 I’m looking to collaborate any kinds of blockchain projects.;
 - 🤔 I’m looking for web3 INTERNSHIPS.;
