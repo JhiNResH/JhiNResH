@@ -20,9 +20,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
-
+- 🔥 DeFi / GameFi / Dapp / LSDFi / LST / RWA
 - 👨🏽‍💻 I’m currently working on [eatngo](https://github.com/JhiNResH/eatngo1);
-- 🌱 I’m currently learning React, Rust, Solidity; 
+- 🌱 I’m currently learning Solidity; 
 - 👯 I’m looking to collaborate any kinds of blockchain projects.;
 - 🤔 I’m looking for web3 INTERNSHIPS.;
 - 💬 AMA, I am willing to help and challenge.;
