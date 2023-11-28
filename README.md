@@ -22,11 +22,11 @@ You can use the website to generate badges: https://shields.io/
 
 - 🔥 DeFi / GameFi / Dapp / LSDFi / LST / RWA
 - 👨🏽‍💻 I’m currently working on [eatngo](https://github.com/JhiNResH/eatngo1);
-- 🌱 I’m currently learning Solidity; 
+- 🌱 I’m currently exiting tutorial hell; 
 - 👯 I’m looking to collaborate any kinds of blockchain projects.;
 - 🤔 I’m looking for web3 INTERNSHIPS.;
 - 💬 AMA, I am willing to help and challenge.;
-- ⚡️ Fun-Fact: I have a degree in mechanical engineering.;
+- ⚡️ Fun-Fact: I have a bachelor degree in mechanical engineering.;
 - 📫 How to reach me: cxc3787@mavs.uta.edu;
 
 **Languages and Tools:** 
