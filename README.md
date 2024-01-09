@@ -70,11 +70,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 <!-- ## Support me -->
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
 
 ---
 
-<!-- This readme was created by Murillo Comino - https://github.com/JhiNResH -->
+<!-- This readme was created by Jerry Chen - https://github.com/JhiNResH -->
 ⭐️ From [JhiNResH](https://github.com/JhiNResH)
