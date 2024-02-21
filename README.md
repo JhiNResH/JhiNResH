@@ -47,7 +47,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.anchor-lang.com/_next/image?url=%2Flogo.png&w=64&q=75"></code>
   <code><img width="10%" src="https://github.com/uiwjs/file-icons/blob/master/icon/solidity.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
