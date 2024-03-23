@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for web3 INTERNSHIPS.;
 - 💬 AMA, I am willing to help and challenge.;
 - ⚡️ Fun-Fact: I have a bachelor degree in mechanical engineering.;
-- 📫 How to reach me: cxc3787@mavs.uta.edu;
+- 📫 How to reach me: mynameisjerry870203@gmail.com;
 
 **Languages and Tools:** 
 
