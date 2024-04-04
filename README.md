@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Jerry Chen, a Developer from Taiwan 🇹🇼
+## Hi, I'm Jerry Chen, a Blockchain Developer from Taiwan 🇹🇼
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
