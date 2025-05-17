@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
-- 🔥 DeFi / PayFi / Dapp / LSDFi / LST / RWA
+- 🔥 DeFi / PayFi / Stablecoin / LST / RWA
 - 👨🏽‍💻 I’m working on hackathon projects.;
 - 🌱 I’m currently exiting tutorial hell.; 
 - 👯 I’m looking to collaborate any kinds of blockchain projects.;
