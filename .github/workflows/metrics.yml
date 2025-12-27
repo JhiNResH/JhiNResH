@@ -50,13 +50,13 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
 
-      - name: Terminal Style Stats
+      - name: Rich Stats (Visual)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.terminal.svg
+          filename: metrics.rich.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: JhiNResH
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
           repositories_forks: yes
@@ -66,3 +66,14 @@ jobs:
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_threshold: 0%
+          # Plugin: Habits (Coding hours)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Plugin: Achievements (Trophies)
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C

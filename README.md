@@ -15,7 +15,7 @@
 
 ### ⚡ About Me
 
-<img width="300" align="right" alt="Bongo Cat" src="https://tenor.com/bM3sL.gif" />
+<img width="300" align="right" alt="Code Typing Bot" src="https://media.giphy.com/media/L1R1TVTh2RhtD_vAls/giphy.gif" />
 
 - 🎯 **Focus Areas:** DeFi / Stablecoin / AMM / RWA
 - 🛠️ **Current Work:** Developing hackathon projects and Web3 dApps.
@@ -48,7 +48,7 @@
 ### 📊 Performance Stats
 
 <p align="center">
-  <img src="metrics.terminal.svg" alt="Terminal Stats" />
+  <img src="metrics.rich.svg" alt="Rich Stats" />
 </p>
 
 <p align="center">
