@@ -1,7 +1,7 @@
 ## Hi, I'm Jerry Chen | Software Developer 🇹🇼
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9945FF&width=435&lines=Full+Stack+Developer;SVM+and+EVM+Enthusiast;Building+DeFi+%2F+Solutions;Actively+Seeking+Web3+Jobs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9945FF&width=435&lines=Full+Stack+Developer;SVM+and+EVM+Enthusiast;Building+Researching+DeFi;Actively+Seeking+Web3+Jobs" alt="Typing SVG" />
 </p>
 
 <p align="left">
