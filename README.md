@@ -45,12 +45,6 @@
 
 ---
 
-### 📊 Performance Stats
-
-<p align="center">
-  <img src="metrics.rich.svg" alt="Rich Stats" />
-</p>
-
 <!--START_SECTION:waka-->
 
 ```yaml
