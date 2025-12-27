@@ -52,6 +52,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```yaml
+From: 27 November 2025 - To: 27 December 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
