@@ -15,7 +15,7 @@
 
 ### ⚡ About Me
 
-<img width="300" align="right" alt="Code Typing Bot" src="https://media.giphy.com/media/L1R1TVTh2RhtD_vAls/giphy.gif" />
+<img align="right" width="48%" src="metrics.compact.svg" alt="Compact Stats" />
 
 - 🎯 **Focus Areas:** DeFi / Stablecoin / AMM / RWA
 - 🛠️ **Current Work:** Developing hackathon projects and Web3 dApps.

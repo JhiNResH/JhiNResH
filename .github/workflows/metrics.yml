@@ -76,3 +76,14 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
+
+      - name: Compact Stats (Right Aligned)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.compact.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: JhiNResH
+          frame: yes
+          base: header, activity, community, repositories
+          config_timezone: Asia/Taipei
+          plugin_lines: yes
