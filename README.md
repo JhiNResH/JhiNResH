@@ -40,7 +40,7 @@
 ### 🌌 GitHub 3D Metrics
 
 <p align="center">
-  <img src="metrics.plugin.isocalendar.svg" alt="GitHub 3D Calendar" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Calendar" />
 </p>
 
 ---
