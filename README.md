@@ -15,7 +15,7 @@
 
 ### ⚡ About Me
 
-<img align="right" width="48%" src="metrics.compact.svg" alt="Compact Stats" />
+<img width="300" align="right" alt="Code Typing Bot" src="https://media.giphy.com/media/L1R1TVTh2RhtD_vAls/giphy.gif" />
 
 - 🎯 **Focus Areas:** DeFi / Stablecoin / AMM / RWA
 - 🛠️ **Current Work:** Developing hackathon projects and Web3 dApps.
@@ -44,6 +44,13 @@
 </p>
 
 ---
+
+### 📊 Github Stats
+
+<a href="https://github.com/JhiNResH">
+<img src="metrics.overview.svg" alt="Stats Overview" width="48%" />
+<img src="metrics.languages.svg" alt="Languages" width="48%" />
+</a>
 
 <!--START_SECTION:waka-->
 

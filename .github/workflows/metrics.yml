@@ -31,59 +31,29 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: General Stats
+      - name: Stats Overview
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: metrics.overview.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: JhiNResH
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Taipei
-          repositories_forks: yes
+          plugin_lines: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+      - name: Language Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: JhiNResH
+          base: ""
+          config_timezone: Asia/Taipei
           plugin_languages: yes
           plugin_languages_ignored: >-
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_threshold: 0%
           plugin_languages_limit: 8
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
-      - name: Rich Stats (Visual)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.rich.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: JhiNResH
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Taipei
-          repositories_forks: yes
-          plugin_lines: yes
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_threshold: 0%
-          # Plugin: Habits (Coding hours)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # Plugin: Achievements (Trophies)
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
-
-      - name: Compact Stats (Right Aligned)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.compact.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: JhiNResH
-          frame: yes
-          base: header, activity, community, repositories
-          config_timezone: Asia/Taipei
-          plugin_lines: yes
