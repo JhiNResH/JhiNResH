@@ -51,6 +51,9 @@
   <img src="metrics.rich.svg" alt="Rich Stats" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JhiNResH&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
