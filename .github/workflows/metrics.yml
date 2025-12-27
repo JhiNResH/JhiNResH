@@ -37,7 +37,10 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: JhiNResH
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Taipei
+          repositories_forks: yes
           plugin_languages: yes
           plugin_languages_ignored: >-
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -52,8 +55,12 @@ jobs:
         with:
           filename: metrics.terminal.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: JhiNResH
           template: terminal
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Taipei
+          repositories_forks: yes
+          plugin_lines: yes
           plugin_languages: yes
           plugin_languages_ignored: >-
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
