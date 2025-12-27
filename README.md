@@ -17,7 +17,7 @@
 
 <img width="300" align="right" alt="Bongo Cat" src="https://raw.githubusercontent.com/kyechan99/kyechan99/main/assets/bongo-cat.gif" />
 
-- 🎯 **Focus Areas:** DeFi / PayFi / Stablecoin / AMM / RWA
+- 🎯 **Focus Areas:** DeFi / Stablecoin / AMM / RWA
 - 🛠️ **Current Work:** Developing hackathon projects and Web3 dApps.
 - 🌱 **Growth:** Deep diving into the **SVM / EVM Ecosystem** & **Rust**.
 - 👯 **Collaboration:** Open to collaborating on any blockchain-related projects.
@@ -48,7 +48,7 @@
 ### 📊 Performance Stats
 
 <p align="center">
-  <img src="metrics.classic.svg" alt="General Stats" />
+  <img src="metrics.terminal.svg" alt="Terminal Stats" />
 </p>
 
 <p align="center">
