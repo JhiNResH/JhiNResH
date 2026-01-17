@@ -40,7 +40,7 @@
 ### 🌌 GitHub 3D Metrics
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="GitHub 3D Calendar" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Calendar" />
 </p>
 
 ---
@@ -48,8 +48,8 @@
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhiNResH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9945FF&icon_color=9945FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhiNResH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9945FF" alt="Top Languages" width="48%" />
+  <img src="metrics.overview.svg" alt="Stats Overview" width="48%" />
+  <img src="metrics.languages.svg" alt="Languages" width="48%" />
 </p>
 
 <p align="center">
