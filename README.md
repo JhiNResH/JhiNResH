@@ -45,19 +45,6 @@
 
 ---
 
-### 📊 Github Stats
-
-<p align="center">
-  <img src="metrics.overview.svg" alt="Stats Overview" width="48%" />
-  <img src="metrics.languages.svg" alt="Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhiNResH&theme=tokyonight&hide_border=true&background=0D1117&ring=9945FF&fire=9945FF&currStreakLabel=9945FF" alt="GitHub Streak" />
-</p>
-
----
-
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
