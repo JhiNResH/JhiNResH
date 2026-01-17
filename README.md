@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```yaml
-From: 17 December 2025 - To: 16 January 2026
+From: 18 December 2025 - To: 17 January 2026
 
-Total Time: 163 hrs 1 min
+Total Time: 176 hrs 7 mins
 
-Other         103 hrs 12 mins ███████████████▓░░░░░░░░░   63.31 %
+Other         106 hrs 2 mins  ███████████████░░░░░░░░░░   60.21 %
 ```
 
 <!--END_SECTION:waka-->
