@@ -17,7 +17,7 @@
 
 <img width="200" align="right" alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
-- 🎯 **Focus Areas:** DeFi / Stablecoin / AMM / RWA / ZK
+- 🎯 **Focus Areas:** DeFi / Stablecoin / AMM / RWA / ZK / Agents
 - 🛠️ **Current Work:** Developing hackathon projects and Web3 dApps.
 - 🌱 **Growth:** Deep diving into the **SVM / EVM Ecosystem** & **Rust**.
 - 👯 **Collaboration:** Open to collaborating on any blockchain-related projects.
