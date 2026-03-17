@@ -48,29 +48,29 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,886 Contributions in the Year 2026
+> 🏆 2,714 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 97 Public Repositories 
+> 📜 96 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1784 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-🌆 Daytime                4081 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌃 Evening                4048 commits        █████████░░░░░░░░░░░░░░░░   37.69 % 
-🌙 Night                  826 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌞 Morning                1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+🌆 Daytime                2534 commits        █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌃 Evening                2863 commits        ██████████░░░░░░░░░░░░░░░   41.54 % 
+🌙 Night                  448 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-maiat-protocol           42 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.44 % 
-gstack                   6 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-maiat-landing            5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-oauth                    5 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-clawd                    4 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+maiat-protocol           43 hrs 51 mins      ████████████░░░░░░░░░░░░░   47.61 % 
+gstack                   6 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+clawd                    4 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+oauth                    4 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+maiat-passport-ens       4 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 
 
- Last Updated on 16/03/2026 02:55:42 UTC
+ Last Updated on 17/03/2026 02:38:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
