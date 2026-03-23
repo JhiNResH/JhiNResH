@@ -48,15 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.90%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,911 Contributions in the Year 2026
+> 🏆 2,918 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3941 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-🌆 Daytime                8668 commits        ██████████░░░░░░░░░░░░░░░   40.22 % 
-🌃 Evening                7127 commits        ████████░░░░░░░░░░░░░░░░░   33.07 % 
-🌙 Night                  1814 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+🌞 Morning                4094 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+🌆 Daytime                9017 commits        ██████████░░░░░░░░░░░░░░░   40.28 % 
+🌃 Evening                7387 commits        ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌙 Night                  1888 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-maiat-protocol           25 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-maiat-passport-ens       13 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-maiat-landing            4 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-erc-8004-contracts       3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-gmgn-skills              3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+maiat-protocol           26 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   33.55 % 
+maiat-passport-ens       9 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+erc-8004-contracts       3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+gmgn-skills              3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+hook-contracts           3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 
 
- Last Updated on 22/03/2026 02:49:36 UTC
+ Last Updated on 23/03/2026 02:50:02 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
