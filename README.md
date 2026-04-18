@@ -48,15 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.72%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,269 Contributions in the Year 2026
+> 🏆 3,272 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5745 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-🌆 Daytime                12351 commits       ██████████░░░░░░░░░░░░░░░   39.66 % 
-🌃 Evening                10321 commits       ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌙 Night                  2726 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌞 Morning                5769 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+🌆 Daytime                12403 commits       ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌃 Evening                10340 commits       ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌙 Night                  2733 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-maiat-dojo               33 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.58 % 
-wanderly                 12 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-tempo                    6 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-awesome-design-systems   4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-openui?tab=readme-ov-file2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+maiat-dojo               29 hrs 6 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
+wanderly                 12 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+tempo                    6 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+awesome-design-systems   4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JerryChen                4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 
 
- Last Updated on 17/04/2026 03:11:47 UTC
+ Last Updated on 18/04/2026 03:01:53 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
