@@ -48,15 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,575 Contributions in the Year 2026
+> 🏆 3,592 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5789 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-🌆 Daytime                12461 commits       ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌃 Evening                10427 commits       ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌙 Night                  2786 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+🌞 Morning                5785 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+🌆 Daytime                12442 commits       ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌃 Evening                10421 commits       ████████░░░░░░░░░░░░░░░░░   33.16 % 
+🌙 Night                  2774 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 ```
 
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-jiagon                   15 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.35 % 
-hook-contracts           11 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-jeezlabs                 5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-brain                    3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-app                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+jiagon                   22 hrs 42 mins      ███████████░░░░░░░░░░░░░░   42.65 % 
+hook-contracts           11 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+jeezlabs                 6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+brain                    4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+maiat-dojo               2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 ```
 
 
- Last Updated on 30/04/2026 03:55:23 UTC
+ Last Updated on 01/05/2026 04:03:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
