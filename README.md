@@ -48,7 +48,7 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-jiagon                   22 hrs 42 mins      ███████████░░░░░░░░░░░░░░   42.65 % 
-hook-contracts           11 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-jeezlabs                 6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-brain                    4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-maiat-dojo               2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+jiagon                   23 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.06 % 
+hook-contracts           11 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+jeezlabs                 6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+brain                    4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+hermes-agent             4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 
 
- Last Updated on 01/05/2026 04:03:01 UTC
+ Last Updated on 02/05/2026 03:39:36 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
