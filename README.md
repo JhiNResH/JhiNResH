@@ -48,15 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,879 Contributions in the Year 2026
+> 🏆 3,908 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5782 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-🌆 Daytime                12457 commits       ██████████░░░░░░░░░░░░░░░   39.52 % 
-🌃 Evening                10468 commits       ████████░░░░░░░░░░░░░░░░░   33.21 % 
-🌙 Night                  2813 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+🌞 Morning                5808 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+🌆 Daytime                12554 commits       ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌃 Evening                10515 commits       ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌙 Night                  2826 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 ```
 
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-jiagon                   14 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.59 % 
-pincher                  6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-maiat-dojo               3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-hook-contracts           3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-rentchain                3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+rentchain                12 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+jiagon                   11 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+maiat-dojo               3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Tably                    3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+hook-contracts           2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 ```
 
 
- Last Updated on 11/05/2026 04:10:33 UTC
+ Last Updated on 12/05/2026 03:55:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
