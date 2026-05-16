@@ -48,6 +48,8 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2034%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -62,8 +64,29 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 04:07:26 UTC
+```text
+🌞 Morning                5884 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+🌆 Daytime                12557 commits       ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌃 Evening                10636 commits       ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌙 Night                  2985 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+rentchain                12 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Gimi                     11 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+wanderly                 6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+jiagon                   5 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+brain                    5 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+```
+
+
+ Last Updated on 16/05/2026 03:49:37 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
