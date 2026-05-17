@@ -48,7 +48,7 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.61%20million%20lines%20of%20code-blue?style=flat)
 
@@ -56,7 +56,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,053 Contributions in the Year 2026
+> 🏆 4,061 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -68,8 +68,8 @@
 
 ```text
 🌞 Morning                5884 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌆 Daytime                12557 commits       ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌃 Evening                10636 commits       ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌆 Daytime                12558 commits       ██████████░░░░░░░░░░░░░░░   39.17 % 
+🌃 Evening                10637 commits       ████████░░░░░░░░░░░░░░░░░   33.17 % 
 🌙 Night                  2985 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 ```
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-rentchain                12 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Gimi                     11 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-wanderly                 6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-jiagon                   5 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-brain                    5 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+rentchain                12 hrs 41 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Gimi                     11 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+wanderly                 6 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Landingpage              5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+brain                    5 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 ```
 
 
- Last Updated on 16/05/2026 03:49:37 UTC
+ Last Updated on 17/05/2026 04:06:03 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
