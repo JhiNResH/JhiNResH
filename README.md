@@ -48,8 +48,6 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2046%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -78,15 +76,15 @@
 
 ```text
 🐱‍💻 Projects: 
-rentchain                12 hrs 41 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Gimi                     11 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-wanderly                 6 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Landingpage              5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-brain                    5 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Gimi                     11 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+rentchain                9 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Landingpage              8 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+wanderly                 7 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+brain                    5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 
 
- Last Updated on 17/05/2026 04:06:03 UTC
+ Last Updated on 18/05/2026 04:19:37 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
