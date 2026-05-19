@@ -48,13 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.61%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%208%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,061 Contributions in the Year 2026
+> 🏆 4,082 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5884 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌆 Daytime                12558 commits       ██████████░░░░░░░░░░░░░░░   39.17 % 
-🌃 Evening                10637 commits       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌙 Night                  2985 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+🌞 Morning                5894 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌆 Daytime                12606 commits       ██████████░░░░░░░░░░░░░░░   39.15 % 
+🌃 Evening                10694 commits       ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌙 Night                  3009 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 ```
 
 
@@ -84,7 +86,7 @@ brain                    5 hrs 40 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 18/05/2026 04:19:37 UTC
+ Last Updated on 19/05/2026 04:16:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
