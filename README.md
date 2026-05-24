@@ -48,13 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.70%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2014%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,233 Contributions in the Year 2026
+> 🏆 4,300 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,8 +64,29 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/05/2026 03:56:36 UTC
+```text
+🌞 Morning                5995 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+🌆 Daytime                12884 commits       ██████████░░░░░░░░░░░░░░░   39.10 % 
+🌃 Evening                10898 commits       ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌙 Night                  3178 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+wanderly                 6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+wanderly-current         5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+bnbagent-sdk             4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Landingpage              2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Gimi                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+```
+
+
+ Last Updated on 24/05/2026 04:16:00 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
