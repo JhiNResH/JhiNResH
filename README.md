@@ -48,15 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C238%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,429 Contributions in the Year 2026
+> 🏆 4,483 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6096 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-🌆 Daytime                13034 commits       ██████████░░░░░░░░░░░░░░░   38.91 % 
-🌃 Evening                11121 commits       ████████░░░░░░░░░░░░░░░░░   33.20 % 
-🌙 Night                  3245 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+🌞 Morning                6008 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+🌆 Daytime                13041 commits       ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌃 Evening                11101 commits       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+🌙 Night                  3168 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-wanderly-current         14 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.67 % 
-wanderly                 4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-bnbagent-sdk             4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-brain                    3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Gimi                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+wanderly-current         19 hrs 5 mins       ███████████░░░░░░░░░░░░░░   43.49 % 
+brain                    4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Gimi                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JhiNResH                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+bnbagent-sdk             2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 
 
- Last Updated on 26/05/2026 04:17:13 UTC
+ Last Updated on 27/05/2026 04:32:16 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
