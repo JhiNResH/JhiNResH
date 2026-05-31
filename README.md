@@ -48,15 +48,15 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C269%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C279%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,677 Contributions in the Year 2026
+> 🏆 4,717 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5990 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-🌆 Daytime                13090 commits       ██████████░░░░░░░░░░░░░░░   39.37 % 
-🌃 Evening                11019 commits       ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌙 Night                  3151 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+🌞 Morning                5936 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+🌆 Daytime                13028 commits       ██████████░░░░░░░░░░░░░░░   39.46 % 
+🌃 Evening                10933 commits       ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌙 Night                  3116 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 ```
 
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-wanderly-current         30 hrs 15 mins      █████████████░░░░░░░░░░░░   50.82 % 
-brain                    5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-wanderly                 5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-JhiNResH                 4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Gimi                     3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+wanderly-current         33 hrs 3 mins       █████████████░░░░░░░░░░░░   53.42 % 
+brain                    7 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+wanderly                 5 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+JhiNResH                 4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+sll-r                    2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 
- Last Updated on 30/05/2026 04:04:03 UTC
+ Last Updated on 31/05/2026 04:29:10 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
