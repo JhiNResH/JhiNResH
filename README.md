@@ -48,7 +48,7 @@
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.79%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,15 +78,15 @@
 
 ```text
 🐱‍💻 Projects: 
-SAV-E-landing            4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-jeezlabs                 4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-die-hard-trucking        3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-ponytail                 3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-brain                    2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+SAV-E-landing            4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+die-hard-trucking        4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+ponytail                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+wanderly-current         1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+brain                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
 
 
- Last Updated on 24/06/2026 04:15:49 UTC
+ Last Updated on 25/06/2026 04:16:42 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
